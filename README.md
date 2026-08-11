@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0035-search-insert-position) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
