@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0039-combination-sum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0035-search-insert-position) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
