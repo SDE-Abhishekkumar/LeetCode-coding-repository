@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0136-single-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
