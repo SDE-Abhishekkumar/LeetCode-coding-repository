@@ -36,10 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0039-combination-sum) |
+| [0095-unique-binary-search-trees-ii](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0095-unique-binary-search-trees-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0045-jump-game-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0095-unique-binary-search-trees-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -70,4 +72,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
