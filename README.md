@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0095-unique-binary-search-trees-ii) |
+| [0100-same-tree](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0100-same-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0095-unique-binary-search-trees-ii) |
+| [0100-same-tree](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0100-same-tree) |
 ## Stack
 |  |
 | ------- |
@@ -94,4 +96,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
