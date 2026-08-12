@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0133-clone-graph) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
@@ -99,8 +100,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0100-same-tree) |
+| [0133-clone-graph](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0133-clone-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0100-same-tree) |
+| [0133-clone-graph](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0133-clone-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
