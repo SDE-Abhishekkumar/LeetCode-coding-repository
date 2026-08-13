@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0118-pascals-triangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0136-single-number) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -47,10 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0045-jump-game-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0095-unique-binary-search-trees-ii) |
 | [0118-pascals-triangle](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0118-pascals-triangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0045-jump-game-ii) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Math
 |  |
 | ------- |
