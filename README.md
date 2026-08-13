@@ -84,17 +84,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0095-unique-binary-search-trees-ii) |
+| [0099-recover-binary-search-tree](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0095-unique-binary-search-trees-ii) |
+| [0099-recover-binary-search-tree](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0099-recover-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0095-unique-binary-search-trees-ii) |
+| [0099-recover-binary-search-tree](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0144-binary-tree-preorder-traversal) |
 ## Stack
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0094-binary-tree-inorder-traversal) |
+| [0099-recover-binary-search-tree](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0100-same-tree) |
 | [0133-clone-graph](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0144-binary-tree-preorder-traversal) |
