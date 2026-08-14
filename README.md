@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Array
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0045-jump-game-ii) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0016-3sum-closest) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search
 |  |
