@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0024-swap-nodes-in-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -178,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/2029-stone-game-ix) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
