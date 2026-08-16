@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0136-single-number) |
+| [2029-stone-game-ix](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2029-stone-game-ix](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/2029-stone-game-ix) |
 ## Math
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0069-sqrtx) |
+| [2029-stone-game-ix](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/2029-stone-game-ix) |
 ## String
 |  |
 | ------- |
@@ -155,4 +158,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/2029-stone-game-ix) |
+## Counting
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
