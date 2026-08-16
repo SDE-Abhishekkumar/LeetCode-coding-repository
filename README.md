@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0066-plus-one) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0036-valid-sudoku) |
 | [0133-clone-graph](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0133-clone-graph) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0024-swap-nodes-in-pairs) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
