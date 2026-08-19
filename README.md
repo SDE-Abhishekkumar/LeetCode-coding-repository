@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0069-sqrtx) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0136-single-number) |
 | [1386-cinema-seat-allocation](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/1386-cinema-seat-allocation) |
