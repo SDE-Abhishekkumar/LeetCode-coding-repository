@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0069-sqrtx) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Backtracking
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0069-sqrtx) |
 | [1563-stone-game-v](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/2029-stone-game-ix) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## String
 |  |
 | ------- |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0136-single-number) |
 | [1386-cinema-seat-allocation](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
 |  |
@@ -207,4 +211,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0036-valid-sudoku) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Number Theory
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
