@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1386-cinema-seat-allocation](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/2029-stone-game-ix) |
 ## Math
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0069-sqrtx) |
 | [1563-stone-game-v](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0006-zigzag-conversion) |
 | [0067-add-binary](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0067-add-binary) |
+| [1927-sum-game](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
