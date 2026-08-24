@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0136-single-number) |
 | [1386-cinema-seat-allocation](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1563-stone-game-v](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/1872-stone-game-viii) |
 ## Greedy
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0069-sqrtx) |
 | [1563-stone-game-v](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/2029-stone-game-ix) |
 ## Counting
 |  |
@@ -197,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/2029-stone-game-ix) |
 ## Nim Game
@@ -206,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/2029-stone-game-ix) |
 ## Recursion
 |  |
@@ -224,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
