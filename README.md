@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0027-remove-element) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Array
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -247,4 +249,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
