@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0940-distinct-subsequences-ii](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0940-distinct-subsequences-ii) |
 | [1563-stone-game-v](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/1872-stone-game-viii) |
 ## Greedy
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0008-string-to-integer-atoi) |
 | [0067-add-binary](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
