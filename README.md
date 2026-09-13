@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0136-single-number) |
+| [0835-image-overlap](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/1872-stone-game-viii) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0036-valid-sudoku) |
+| [0835-image-overlap](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Combinatorics
 |  |
