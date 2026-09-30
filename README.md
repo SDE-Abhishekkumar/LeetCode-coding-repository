@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0940-distinct-subsequences-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0144-binary-tree-preorder-traversal) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -317,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/1401-circle-and-rectangle-overlapping) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SDE-Abhishekkumar/LeetCode-coding-repository/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
